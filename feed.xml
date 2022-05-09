@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>douyin</title>
+    <link href="https://zhoudashui.github.io/web/feed.xml" rel="self" />
+    <link href="https://zhoudashui.github.io/web" />
+    <updated>2022-05-09T10:38:53+07:00</updated>
+    <author>
+        <name>ming</name>
+    </author>
+    <id>https://zhoudashui.github.io/web</id>
+
+    <entry>
+        <title>ghjghujkhjk</title>
+        <author>
+            <name>ming</name>
+        </author>
+        <link href="https://zhoudashui.github.io/web/ghjghujkhjk.html"/>
+        <id>https://zhoudashui.github.io/web/ghjghujkhjk.html</id>
+
+        <updated>2022-05-09T10:38:53+07:00</updated>
+            <summary>
+                <![CDATA[
+                    ghjghjghj
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ghjghjghj</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

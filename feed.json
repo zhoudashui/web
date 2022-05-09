@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "douyin",
+    "description": "",
+    "home_page_url": "https://zhoudashui.github.io/web",
+    "feed_url": "https://zhoudashui.github.io/web/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ming"
+    },
+    "items": [
+        {
+            "id": "https://zhoudashui.github.io/web/ghjghujkhjk.html",
+            "url": "https://zhoudashui.github.io/web/ghjghujkhjk.html",
+            "title": "ghjghujkhjk",
+            "summary": "ghjghjghj",
+            "content_html": "<p>ghjghjghj</p>",
+            "author": {
+                "name": "ming"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-09T10:38:53+07:00",
+            "date_modified": "2022-05-09T10:38:53+07:00"
+        }
+    ]
+}
