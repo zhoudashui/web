@@ -3,12 +3,33 @@
     <title>抖荫</title>
     <link href="https://zhoudashui.github.io/web/feed.xml" rel="self" />
     <link href="https://zhoudashui.github.io/web" />
-    <updated>2022-05-09T19:56:11+07:00</updated>
+    <updated>2022-05-20T20:15:49+07:00</updated>
     <author>
         <name>ming</name>
     </author>
     <id>https://zhoudashui.github.io/web</id>
 
+    <entry>
+        <title>第二篇文章</title>
+        <author>
+            <name>ming</name>
+        </author>
+        <link href="https://zhoudashui.github.io/web/di-er-pian-wen-zhang/index.html"/>
+        <id>https://zhoudashui.github.io/web/di-er-pian-wen-zhang/index.html</id>
+
+        <updated>2022-05-20T20:15:49+07:00</updated>
+            <summary>
+                <![CDATA[
+                    这是第二篇文章
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>这是第二篇文章</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>This is a new post</title>
         <author>
